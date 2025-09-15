@@ -1,8 +1,4 @@
-Of course. Based on your C\# code and the excellent comments you've included, here is a complete README file in Markdown format.
-
-You can copy and paste this text into a new file named `README.md` in your project folder.
-
------
+----
 
 # C\# Demo: Logical Cohesion and Control Coupling
 
