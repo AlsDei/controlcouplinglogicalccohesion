@@ -1,0 +1,14 @@
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\Coupling & Cohesion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\Coupling & Cohesion.AssemblyInfoInputs.cache
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\Coupling & Cohesion.AssemblyInfo.cs
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\Coupling & Cohesion.csproj.CoreCompileInputs.cache
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\bin\Debug\net9.0\Coupling & Cohesion.exe
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\bin\Debug\net9.0\Coupling & Cohesion.deps.json
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\bin\Debug\net9.0\Coupling & Cohesion.runtimeconfig.json
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\bin\Debug\net9.0\Coupling & Cohesion.dll
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\bin\Debug\net9.0\Coupling & Cohesion.pdb
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\Coupling & Cohesion.dll
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\refint\Coupling & Cohesion.dll
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\Coupling & Cohesion.pdb
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\Coupling & Cohesion.genruntimeconfig.cache
+C:\Users\Angga\OneDrive\Dokumen\ITS\Sem_3\PWEB\Coupling & Cohesion\obj\Debug\net9.0\ref\Coupling & Cohesion.dll
